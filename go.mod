@@ -1,3 +1,3 @@
-module github.com/omegasuite/btclog
+module github.com/zeusyf/btclog
 
 go 1.22.1
